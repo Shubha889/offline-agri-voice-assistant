@@ -1,0 +1,513 @@
+
+Crop,Phase,Stage,Topic,SubTopic,Content
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,types,White backed plant hopper (WBPH)
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,types,Thrips
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,types,Whorl maggot
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),disease,types,Seedling blast
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),disease,types,Foot rot (Bakanae)
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),disease,types,Bacterial leaf blight
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,management,Use natural enemies
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,management,Pheromone traps
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,management,Trichocards
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,management,Light traps
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),disease,management,Apply Pseudomonas fluorescens with FYM
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,factors,Excessive nitrogen fertilizer
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,factors,High humidity and temperature
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,factors,Presence of weeds
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),pest,factors,High-density planting
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),disease,factors,High humidity
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),disease,factors,Dense planting
+Rice,Vegetative Phase,Germination & Seedling (0-20 days),disease,factors,Excessive nitrogen application
+Rice,Vegetative Phase,Tillering (20-50 days),pest,types,Stem borer (dead heart)
+Rice,Vegetative Phase,Tillering (20-50 days),pest,types,Leaf folder
+Rice,Vegetative Phase,Tillering (20-50 days),pest,types,Case worm
+Rice,Vegetative Phase,Tillering (20-50 days),disease,types,Sheath blight
+Rice,Vegetative Phase,Tillering (20-50 days),disease,types,Bacterial leaf blight
+Rice,Vegetative Phase,Tillering (20-50 days),disease,types,Leaf blast
+Rice,Vegetative Phase,Tillering (20-50 days),pest,management,Use neem-based pesticides
+Rice,Vegetative Phase,Tillering (20-50 days),pest,management,ETL-based spraying
+Rice,Vegetative Phase,Tillering (20-50 days),pest,management,Pesticide rotation
+Rice,Vegetative Phase,Tillering (20-50 days),disease,management,Apply Carbendazim
+Rice,Vegetative Phase,Tillering (20-50 days),disease,management,Apply Copper oxychloride
+Rice,Vegetative Phase,Tillering (20-50 days),disease,management,Apply Streptocycline
+Rice,Vegetative Phase,Tillering (20-50 days),pest,factors,Excessive nitrogen fertilizer
+Rice,Vegetative Phase,Tillering (20-50 days),pest,factors,Monoculture and continuous cropping
+Rice,Vegetative Phase,Tillering (20-50 days),pest,factors,Staggered planting
+Rice,Vegetative Phase,Tillering (20-50 days),pest,factors,High-density planting
+Rice,Vegetative Phase,Tillering (20-50 days),pest,factors,Presence of weeds
+Rice,Vegetative Phase,Tillering (20-50 days),pest,factors,Reduced sunlight
+Rice,Vegetative Phase,Tillering (20-50 days),disease,factors,High humidity
+Rice,Vegetative Phase,Tillering (20-50 days),disease,factors,Excessive nitrogen application
+Rice,Vegetative Phase,Tillering (20-50 days),disease,factors,Temperature 25 to 30 degree with morning dew
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),pest,types,Stem borer
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),pest,types,Leaf folder
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),pest,types,Gall midge
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),irrigation,condition,Maintain 5 to 10 cm water level
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),cultivation,practices,Maintain proper spacing
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),cultivation,practices,Balanced fertilization
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),pest,factors,High humidity and temperature
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),pest,factors,Excessive nitrogen fertilizer
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),disease,factors,High humidity
+Rice,Reproductive Phase,Panicle Initiation & Booting (60-70 days),disease,factors,Reproductive stage sensitivity
+Rice,Reproductive Phase,Flowering (80-90 days),disease,types,Panicle blast
+Rice,Reproductive Phase,Flowering (80-90 days),disease,types,False smut
+Rice,Reproductive Phase,Flowering (80-90 days),disease,types,Sheath rot
+Rice,Reproductive Phase,Flowering (80-90 days),disease,types,Tungro virus
+Rice,Reproductive Phase,Flowering (80-90 days),irrigation,condition,Maintain 5 to 10 cm water level
+Rice,Reproductive Phase,Flowering (80-90 days),disease,management,Apply Tricyclazole
+Rice,Reproductive Phase,Flowering (80-90 days),disease,management,Apply Isoprothiolane
+Rice,Reproductive Phase,Flowering (80-90 days),disease,factors,High humidity
+Rice,Reproductive Phase,Flowering (80-90 days),disease,factors,Temperature 25 to 30 degree
+Rice,Reproductive Phase,Flowering (80-90 days),disease,factors,Heavy morning dew
+Rice,Reproductive Phase,Flowering (80-90 days),disease,factors,Reproductive stage sensitivity
+Rice,Ripening Phase,Milk Grain (90-100 days),pest,types,Earhead bugs
+Rice,Ripening Phase,Milk Grain (90-100 days),pest,types,Brown plant hopper (BPH)
+Rice,Ripening Phase,Milk Grain (90-100 days),pest,types,Sheath mites
+Rice,Ripening Phase,Milk Grain (90-100 days),disease,types,Brown spot
+Rice,Ripening Phase,Milk Grain (90-100 days),cultivation,practices,Ensure proper nutrient supply
+Rice,Ripening Phase,Milk Grain (90-100 days),cultivation,practices,Avoid water stress
+Rice,Ripening Phase,Milk Grain (90-100 days),pest,factors,High humidity and temperature
+Rice,Ripening Phase,Milk Grain (90-100 days),pest,factors,Excessive rain or drought
+Rice,Ripening Phase,Milk Grain (90-100 days),disease,factors,High humidity
+Rice,Ripening Phase,Milk Grain (90-100 days),disease,factors,Plant stress due to water imbalance
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,types,Shoot fly
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,types,Cutworms
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,types,White grubs
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,types,Wireworms
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,types,Seedling blight
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,types,Root rot
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,types,Downy mildew
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,types,Pythium stalk rot
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,types,Fusarium seedling blight
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,management,Early sowing
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,management,Field sanitation
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,management,Crop rotation
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,management,Apply Bacillus thuringiensis
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,management,Apply neem-based products
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,management,Seed treatment with Metalaxyl
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,management,Seed treatment with Carbendazim
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,management,Ensure proper drainage
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,management,Maintain proper spacing
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,factors,Warm and humid conditions
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,factors,Dry conditions
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,factors,Crop residue presence
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,factors,Late sowing
+Maize,Germination Phase,Seedling Stage (0-3 weeks),pest,factors,Weedy fields
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,factors,High humidity
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,factors,High rainfall
+Maize,Germination Phase,Seedling Stage (0-3 weeks),disease,factors,Waterlogging
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),pest,types,Fall armyworm
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),pest,types,Stem borer
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,types,Turcicum leaf blight
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,types,Maydis leaf blight
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,types,Banded leaf and sheath blight
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,types,Common rust
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),pest,management,Apply neem-based pesticides
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),pest,management,Install pheromone traps
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),pest,management,Field scouting
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,management,Apply Mancozeb
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,management,Apply Carbendazim
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),pest,factors,Warm temperature
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),pest,factors,High humidity
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,factors,Continuous cropping
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,factors,Delayed sowing
+Maize,Vegetative Phase,Vegetative Stage (3-6 weeks),disease,factors,High plant density
+Maize,Flowering Phase,Tasseling and Silking Stage (40-65 DAS),pest,types,Aphids
+Maize,Flowering Phase,Tasseling and Silking Stage (40-65 DAS),pest,types,Corn earworm
+Maize,Flowering Phase,Tasseling and Silking Stage (40-65 DAS),pest,types,Ear head bug
+Maize,Flowering Phase,Tasseling and Silking Stage (40-65 DAS),disease,types,Fusarium ear rot
+Maize,Flowering Phase,Tasseling and Silking Stage (40-65 DAS),disease,types,Charcoal rot
+Maize,Flowering Phase,Tasseling and Silking Stage (40-65 DAS),disease,types,Bacterial stalk rot
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,types,Shoot fly
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,types,Stem borer
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,types,Cut worms
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,types,Army worm
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,types,Seedling blight
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,types,Damping off
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,types,Leaf blast
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,management,Deep summer ploughing
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,management,Seed treatment with Pseudomonas fluorescens
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,management,Early sowing
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,management,Intercropping with legumes
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,management,Use light traps
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,management,Install bird perches
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,management,Seed treatment with Carbendazim
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,management,Seed treatment with Captan
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,management,Maintain proper spacing
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,management,Field sanitation
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,factors,High humidity
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,factors,Frequent rainfall
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,factors,Excessive nitrogen application
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,factors,Delayed sowing
+Ragi,Germination Phase (0-15 days),Seedling Stage,pest,factors,High plant density
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,factors,High humidity
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,factors,Temperature 25 to 28 degree
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,factors,Cloudy weather
+Ragi,Germination Phase (0-15 days),Seedling Stage,disease,factors,Poor drainage
+Ragi,Vegetative Phase (15-50 days),Vegetative Stage,pest,types,Stem borer
+Ragi,Vegetative Phase (15-50 days),Vegetative Stage,pest,types,Aphids
+Ragi,Vegetative Phase (15-50 days),Vegetative Stage,disease,types,Leaf blast
+Ragi,Vegetative Phase (15-50 days),Vegetative Stage,pest,factors,High humidity
+Ragi,Vegetative Phase (15-50 days),Vegetative Stage,pest,factors,Dry spell
+Ragi,Vegetative Phase (15-50 days),Vegetative Stage,disease,factors,High humidity
+Ragi,Vegetative Phase (15-50 days),Vegetative Stage,disease,factors,Excess nitrogen
+Ragi,Flowering Phase (50-70 days),Booting Stage,pest,types,Stem borer
+Ragi,Flowering Phase (50-70 days),Booting Stage,pest,types,Earhead bug
+Ragi,Flowering Phase (50-70 days),Booting Stage,disease,types,Neck blast
+Ragi,Flowering Phase (50-70 days),Booting Stage,disease,types,Finger blast
+Ragi,Flowering Phase (50-70 days),Booting Stage,disease,types,Smut
+Ragi,Flowering Phase (50-70 days),Booting Stage,disease,types,Mosaic virus
+Ragi,Flowering Phase (50-70 days),Booting Stage,pest,factors,High humidity
+Ragi,Flowering Phase (50-70 days),Booting Stage,pest,factors,Temperature fluctuation
+Ragi,Flowering Phase (50-70 days),Booting Stage,disease,factors,High humidity
+Ragi,Flowering Phase (50-70 days),Booting Stage,disease,factors,Moderate temperature
+Ragi,Grain Filling Phase (70-100 days),Grain Development Stage,disease,types,Neck blast
+Ragi,Grain Filling Phase (70-100 days),Grain Development Stage,disease,types,Finger blast
+Ragi,Grain Filling Phase (70-100 days),Grain Development Stage,disease,types,Smut
+Ragi,Grain Filling Phase (70-100 days),Grain Development Stage,disease,types,Mosaic virus
+Ragi,Grain Filling Phase (70-100 days),Grain Development Stage,irrigation,condition,Maintain 10 cm water level
+Ragi,Grain Filling Phase (70-100 days),Grain Development Stage,disease,factors,High humidity
+Ragi,Grain Filling Phase (70-100 days),Grain Development Stage,disease,factors,Continuous rainfall
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,types,Termites
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,types,White grubs
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,types,Sett rot
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,types,Wilt
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,management,Sett treatment with Chlorpyriphos
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,management,Sett treatment with Imidacloprid
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,management,Intercropping with legumes
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,management,Trash mulching
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,management,Use disease free setts
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,management,Hot water treatment
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,management,Sett treatment with Carbendazim
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,factors,High temperature
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,factors,Low humidity
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,pest,factors,Drought conditions
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,factors,High soil moisture
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,factors,Low temperature
+Sugarcane,Germination Phase (0-45 days),Sprouting Stage,disease,factors,Infected planting material
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,types,Early shoot borer
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,types,Root borer
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,types,Whitefly
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,types,Smut
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,types,Grassy shoot disease
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,types,Mosaic virus
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,management,Release Trichogramma chilonis
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,management,Remove dead hearts
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,management,Use light traps
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,management,Remove infected clumps
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,management,Use resistant varieties
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,management,Field sanitation
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,factors,High humidity
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,factors,Excess nitrogen
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,pest,factors,Poor field sanitation
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,factors,High temperature
+Sugarcane,Tillering Phase (45-120 days),Tillering Stage,disease,factors,Dry weather
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,types,Top borer
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,types,Internode borer
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,types,Pyrilla
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,types,Mealybugs
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,types,Woolly aphid
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,types,Red rot
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,types,Pokkah boeng
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,types,Wilt
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,management,Detrashing
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,management,Release parasitoids
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,management,Apply biological agents
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,management,Apply Carbendazim
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,management,Apply Mancozeb
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,management,Ensure proper drainage
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,factors,High humidity
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,factors,Excess nitrogen
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,pest,factors,Dense canopy
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,factors,High humidity
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,factors,Heavy rainfall
+Sugarcane,Grand Growth Phase (120-270 days),Elongation Stage,disease,factors,Poor drainage
+Sugarcane,Maturity Phase (270-360 days),Ripening Stage,disease,types,Yellow leaf disease
+Sugarcane,Maturity Phase (270-360 days),Ripening Stage,disease,types,Red rot
+Sugarcane,Maturity Phase (270-360 days),Ripening Stage,disease,factors,High humidity
+Sugarcane,Maturity Phase (270-360 days),Ripening Stage,disease,factors,Temperature variation
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,types,Rhizome scale
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,disease,types,Soft rot
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,management,Use healthy seed rhizomes
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,management,Hot water treatment
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,management,Apply neem cake
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,management,Ensure proper drainage
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,disease,management,Seed treatment with Trichoderma harzianum
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,disease,management,Soil application of Trichoderma
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,disease,management,Plant on raised beds
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,factors,Warm and humid conditions
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,factors,Poor sanitation
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,factors,Continuous cropping
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,pest,factors,Dense canopy
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,disease,factors,High soil moisture
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,disease,factors,Waterlogging
+Ginger,Sprouting Phase (0-65 days),Initial Growth Stage,disease,factors,High temperature
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,pest,types,Shoot borer
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,pest,types,Leaf roller
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,types,Soft rot
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,types,Bacterial wilt
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,types,Leaf spot
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,pest,management,Apply neem oil
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,pest,management,Apply Spinosad
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,pest,management,Release Trichogramma
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,management,Soil drenching with Bordeaux mixture
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,management,Apply Copper oxychloride
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,management,Remove infected plants
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,pest,factors,High humidity
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,pest,factors,Heavy rainfall
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,factors,High moisture
+Ginger,Vegetative Phase (65-120 days),Active Growth Stage,disease,factors,Waterlogging
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,pest,types,Rhizome fly
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,pest,types,White grubs
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,disease,types,Soft rot
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,disease,types,Fusarium rot
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,disease,types,Nematode infestation
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,pest,factors,High humidity
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,pest,factors,Soil moisture
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,disease,factors,Soil borne pathogens
+Ginger,Rhizome Development Phase (120-180 days),Rhizome Growth Stage,disease,factors,Nematode damage
+Ginger,Maturity Phase (180+ days),Harvest Stage,pest,types,Rhizome fly
+Ginger,Maturity Phase (180+ days),Harvest Stage,pest,types,White grubs
+Ginger,Maturity Phase (180+ days),Harvest Stage,disease,types,Storage rot
+Ginger,Maturity Phase (180+ days),Harvest Stage,disease,types,Dry rot
+Ginger,Maturity Phase (180+ days),Harvest Stage,disease,factors,High humidity
+Ginger,Maturity Phase (180+ days),Harvest Stage,disease,factors,Poor storage conditions
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,types,Wireworms
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,types,Cutworms
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,types,White grubs
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,disease,types,Black scurf
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,management,Crop rotation
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,management,Deep ploughing
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,management,Soil sanitation
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,management,Use pheromone traps
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,management,Use light traps
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,management,Apply Bacillus thuringiensis
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,management,Apply Beauveria bassiana
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,disease,management,Use disease free seed tubers
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,disease,management,Seed treatment with Carbendazim
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,disease,management,Seed treatment with Mancozeb
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,factors,Hot weather
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,factors,Dry conditions
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,factors,Monoculture
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,pest,factors,Presence of weeds
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,disease,factors,High humidity
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,disease,factors,Cool temperature 10 to 20 degree
+Potato,Sprout Development Phase (0-10 days),Emergence Stage,disease,factors,Infected seed tubers
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,pest,types,Colorado potato beetle
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,pest,types,Aphids
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,pest,types,Leafhoppers
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,pest,types,Flea beetles
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,pest,types,Mites
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,disease,types,Early blight
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,pest,factors,High nitrogen application
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,pest,factors,Hot weather
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,disease,factors,Warm temperature
+Potato,Vegetative Phase (10-30 days),Vegetative Growth Stage,disease,factors,Intermittent rain
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,pest,types,Potato tuber moth
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,pest,types,White grubs
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,pest,types,Leafhoppers
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,disease,types,Late blight
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,disease,types,Common scab
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,pest,factors,Soil cracking
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,pest,factors,Dry soil
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,disease,factors,High humidity
+Potato,Tuber Initiation Phase (30-45 days),Tuber Formation Stage,disease,factors,Cool weather
+Potato,Tuber Bulking Phase (45-80 days),Bulking Stage,irrigation,condition,Maintain 5 to 8 mm per day water requirement
+Potato,Maturity Phase (80-120 days),Maturity Stage,pest,types,Potato tuber moth
+Potato,Maturity Phase (80-120 days),Maturity Stage,disease,types,Bacterial wilt
+Potato,Maturity Phase (80-120 days),Maturity Stage,pest,factors,Dry soil conditions
+Potato,Maturity Phase (80-120 days),Maturity Stage,disease,factors,Waterlogging
+Arecanut,Nursery Stage,Seedling Stage,pest,types,Root grub
+Arecanut,Nursery Stage,Seedling Stage,pest,types,Spindle bug
+Arecanut,Nursery Stage,Seedling Stage,disease,types,Leaf rot
+Arecanut,Nursery Stage,Seedling Stage,disease,types,Leaf spot
+Arecanut,Nursery Stage,Seedling Stage,pest,management,Hand picking of beetles
+Arecanut,Nursery Stage,Seedling Stage,pest,management,Soil treatment with Chlorpyriphos
+Arecanut,Nursery Stage,Seedling Stage,pest,management,Apply Beauveria brongniartii
+Arecanut,Nursery Stage,Seedling Stage,disease,management,Ensure proper drainage
+Arecanut,Nursery Stage,Seedling Stage,disease,management,Apply Bordeaux mixture
+Arecanut,Nursery Stage,Seedling Stage,disease,management,Remove infected leaves
+Arecanut,Nursery Stage,Seedling Stage,pest,factors,High humidity
+Arecanut,Nursery Stage,Seedling Stage,pest,factors,Sandy soil
+Arecanut,Nursery Stage,Seedling Stage,pest,factors,Poor sanitation
+Arecanut,Nursery Stage,Seedling Stage,disease,factors,High humidity
+Arecanut,Nursery Stage,Seedling Stage,disease,factors,Water stagnation
+Arecanut,Juvenile Phase (1-4 years),Young Palm Stage,pest,types,Spindle bug
+Arecanut,Juvenile Phase (1-4 years),Young Palm Stage,pest,management,Apply Dimethoate
+Arecanut,Juvenile Phase (1-4 years),Young Palm Stage,pest,management,Apply Thiamethoxam
+Arecanut,Juvenile Phase (1-4 years),Young Palm Stage,pest,factors,High humidity
+Arecanut,Juvenile Phase (1-4 years),Young Palm Stage,pest,factors,Moisture stress
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,types,Inflorescence caterpillar
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,types,Pentatomid bug
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,types,Mites
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,types,Root grub
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,types,Fruit rot
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,types,Bud rot
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,types,Inflorescence die back
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,types,Stem bleeding
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,management,Remove damaged inflorescences
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,management,Apply Malathion
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,management,Apply neem oil
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,management,Apply sulfur acaricide
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,management,Apply Bordeaux mixture
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,management,Apply Copper oxychloride
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,management,Apply Carbendazim
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,management,Remove infected plant parts
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,factors,High humidity
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,factors,Dry conditions
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,pest,factors,Presence of alternate hosts
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,factors,Heavy rainfall
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,factors,High humidity
+Arecanut,Bearing Stage (5+ years),Flowering and Nut Stage,disease,factors,Poor drainage
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,types,Nematodes
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,types,White grubs
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,types,Root mealybugs
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,disease,types,Damping off
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,disease,types,Collar rot
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,management,Use healthy planting material
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,management,Soil treatment with biocontrol agents
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,management,Maintain proper sanitation
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,disease,management,Ensure proper drainage
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,disease,management,Apply Trichoderma species
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,disease,management,Apply Bacillus subtilis
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,factors,Infested soil
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,factors,Poor sanitation
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,pest,factors,High humidity
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,disease,factors,High humidity
+Coffee,Nursery Stage (Seed to Sapling),Seedling Stage,disease,factors,Dense nursery
+Coffee,Establishment Phase,Young Plant Stage,pest,types,White stem borer
+Coffee,Establishment Phase,Young Plant Stage,pest,types,Mealybugs
+Coffee,Establishment Phase,Young Plant Stage,pest,types,Scale insects
+Coffee,Establishment Phase,Young Plant Stage,pest,management,Maintain optimal shade
+Coffee,Establishment Phase,Young Plant Stage,pest,management,Remove infested plants
+Coffee,Establishment Phase,Young Plant Stage,pest,management,Install pheromone traps
+Coffee,Establishment Phase,Young Plant Stage,pest,factors,High temperature
+Coffee,Establishment Phase,Young Plant Stage,pest,factors,Low shade
+Coffee,Establishment Phase,Young Plant Stage,pest,factors,Plant stress
+Coffee,Blossoming Stage,Flowering Stage,pest,types,Mealybugs
+Coffee,Blossoming Stage,Flowering Stage,pest,types,Green scale
+Coffee,Blossoming Stage,Flowering Stage,disease,types,Black rot
+Coffee,Blossoming Stage,Flowering Stage,disease,types,Anthracnose
+Coffee,Blossoming Stage,Flowering Stage,pest,factors,High humidity
+Coffee,Blossoming Stage,Flowering Stage,pest,factors,Weak plants
+Coffee,Blossoming Stage,Flowering Stage,disease,factors,High humidity
+Coffee,Blossoming Stage,Flowering Stage,disease,factors,Poor air circulation
+Coffee,Berry Development Stage,Fruiting Stage,pest,types,Coffee berry borer
+Coffee,Berry Development Stage,Fruiting Stage,disease,types,Coffee berry disease
+Coffee,Berry Development Stage,Fruiting Stage,pest,management,Timely harvesting
+Coffee,Berry Development Stage,Fruiting Stage,pest,management,Remove leftover berries
+Coffee,Berry Development Stage,Fruiting Stage,pest,management,Apply Beauveria bassiana
+Coffee,Berry Development Stage,Fruiting Stage,pest,factors,Leftover berries
+Coffee,Berry Development Stage,Fruiting Stage,pest,factors,High humidity
+Coffee,Berry Development Stage,Fruiting Stage,disease,factors,High humidity
+Coffee,Berry Development Stage,Fruiting Stage,disease,factors,Frequent rainfall
+Coffee,Harvesting Stage,Harvest Stage,disease,types,Berry blotch
+Coffee,Harvesting Stage,Harvest Stage,disease,types,Fusarium wilt
+Coffee,Harvesting Stage,Harvest Stage,disease,factors,Wounded bark
+Coffee,Harvesting Stage,Harvest Stage,disease,factors,High humidity
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,types,Termites
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,types,White grubs
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,disease,types,Bud rot
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,disease,types,Leaf rot
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,management,Maintain field sanitation
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,management,Apply neem oil
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,management,Soil treatment with Chlorpyriphos
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,disease,management,Ensure proper drainage
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,disease,management,Apply Bordeaux mixture
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,disease,management,Remove infected seedlings
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,factors,Moisture deficiency
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,factors,High temperature
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,pest,factors,Poor sanitation
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,disease,factors,High humidity
+Coconut,Seedling Stage (0-12 months),Early Seedling Stage,disease,factors,Waterlogging
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,types,Rhinoceros beetle
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,types,Red palm weevil
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,disease,types,Bud rot
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,disease,types,Stem bleeding
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,management,Remove breeding sites
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,management,Use pheromone traps
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,management,Beetle hooking
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,disease,management,Apply Bordeaux mixture
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,disease,management,Improve drainage
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,disease,management,Remove infected palms
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,factors,Mechanical injuries
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,factors,Decaying organic matter
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,pest,factors,Improper field maintenance
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,disease,factors,High humidity
+Coconut,Vegetative Stage (1-5 years),Juvenile Stage,disease,factors,Poor drainage
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,types,Rhinoceros beetle
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,types,Red palm weevil
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,types,Black headed caterpillar
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,types,Eriophyid mite
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,types,Bud rot
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,types,Leaf rot
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,types,Stem bleeding
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,management,Apply neem based pesticides
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,management,Use pheromone traps
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,management,Remove affected leaves
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,management,Apply Bordeaux mixture
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,management,Improve drainage
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,management,Control pest vectors
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,factors,High temperature
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,factors,High humidity
+Coconut,Flowering Stage (3-10 years),Bearing Stage,pest,factors,Improper irrigation
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,factors,Heavy rainfall
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,factors,Waterlogging
+Coconut,Flowering Stage (3-10 years),Bearing Stage,disease,factors,Nutrient imbalance
+Coconut,Fruit Development Stage,Nut Development Stage,pest,types,Eriophyid mite
+Coconut,Fruit Development Stage,Nut Development Stage,pest,factors,High humidity
+Coconut,Fruit Development Stage,Nut Development Stage,pest,factors,Moist conditions
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,pest,factors,High temperature
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,pest,factors,High humidity
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,pest,factors,Dry spells
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,pest,factors,Excess nitrogen usage
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,pest,factors,Presence of weeds
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,disease,factors,High soil moisture
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,disease,factors,Poor drainage
+Pepper,Germination Stage (0-3 weeks),Early Seedling Stage,disease,factors,High humidity
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,types,Aphids
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,types,Cutworms
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,types,Whiteflies
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,disease,types,Damping off
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,management,Use insect proof nets
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,management,Apply neem based pesticides
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,management,Use sticky traps
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,disease,management,Seed treatment with Carbendazim
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,disease,management,Use raised beds
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,disease,management,Ensure proper drainage
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,factors,High humidity
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,pest,factors,Weedy fields
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,disease,factors,High moisture
+Pepper,Seedling Stage (4-8 weeks),Young Plant Stage,disease,factors,Waterlogging
+Pepper,Vegetative Stage,Vegetative Growth Stage,pest,types,Thrips
+Pepper,Vegetative Stage,Vegetative Growth Stage,pest,types,Mites
+Pepper,Vegetative Stage,Vegetative Growth Stage,disease,types,Leaf curl virus
+Pepper,Vegetative Stage,Vegetative Growth Stage,disease,types,Leaf spot
+Pepper,Vegetative Stage,Vegetative Growth Stage,pest,management,Apply neem seed kernel extract
+Pepper,Vegetative Stage,Vegetative Growth Stage,pest,management,Release predatory insects
+Pepper,Vegetative Stage,Vegetative Growth Stage,pest,management,Use sticky traps
+Pepper,Vegetative Stage,Vegetative Growth Stage,disease,management,Apply Trichoderma harzianum
+Pepper,Vegetative Stage,Vegetative Growth Stage,disease,management,Crop rotation
+Pepper,Vegetative Stage,Vegetative Growth Stage,disease,management,Remove infected plants
+Pepper,Vegetative Stage,Vegetative Growth Stage,pest,factors,Dry weather
+Pepper,Vegetative Stage,Vegetative Growth Stage,pest,factors,Nutrient imbalance
+Pepper,Vegetative Stage,Vegetative Growth Stage,disease,factors,Insect vectors
+Pepper,Vegetative Stage,Vegetative Growth Stage,disease,factors,High humidity
+Pepper,Flowering Stage,Fruiting Stage,pest,types,Fruit borer
+Pepper,Flowering Stage,Fruiting Stage,pest,types,Pepper maggot
+Pepper,Flowering Stage,Fruiting Stage,disease,types,Phytophthora blight
+Pepper,Flowering Stage,Fruiting Stage,disease,types,Powdery mildew
+Pepper,Flowering Stage,Fruiting Stage,pest,management,Use pheromone traps
+Pepper,Flowering Stage,Fruiting Stage,pest,management,Apply Spinosad
+Pepper,Flowering Stage,Fruiting Stage,pest,management,Remove infested fruits
+Pepper,Flowering Stage,Fruiting Stage,disease,management,Apply Metalaxyl mancozeb
+Pepper,Flowering Stage,Fruiting Stage,disease,management,Use drip irrigation
+Pepper,Flowering Stage,Fruiting Stage,disease,management,Ensure field sanitation
+Pepper,Flowering Stage,Fruiting Stage,pest,factors,High humidity
+Pepper,Flowering Stage,Fruiting Stage,pest,factors,Warm temperature
+Pepper,Flowering Stage,Fruiting Stage,disease,factors,High moisture
+Pepper,Flowering Stage,Fruiting Stage,disease,factors,Poor drainage
+Pepper,Ripening Stage,Harvest Stage,disease,types,Anthracnose
+Pepper,Ripening Stage,Harvest Stage,disease,types,Bacterial rot
+Pepper,Ripening Stage,Harvest Stage,disease,factors,High humidity
+Pepper,Ripening Stage,Harvest Stage,disease,factors,Overripe fruits
