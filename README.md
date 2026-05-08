@@ -1,56 +1,95 @@
-# 🌾 Voice-Based Crop Advisory Assistant
+# 🌾 Offline Agricultural Voice Assistant
 
-## 📌 Overview
-This project is a voice-enabled crop advisory system that allows users to interact using speech.
+A lightweight offline voice-enabled crop advisory assistant built using Python, Whisper Speech-to-Text (STT), and local Text-to-Speech (TTS) systems.
 
-The system:
-- Converts speech to text (STT)
-- Matches user input with crop data
-- Returns results via text and speech (TTS)
+The project is designed for low-cost agricultural environments where internet access and cloud API costs may be restrictive.
 
 ---
 
-## ⚙️ Features
-- Voice input using Whisper
-- Voice output using pyttsx3
-- Supports crop → phase → stage → topic navigation
-- Handles speech errors using fuzzy matching
-- Works offline
+# 🚀 Features
+
+* 🎙️ Offline Speech-to-Text using Whisper
+* 🔊 Local Text-to-Speech responses
+* 🌱 Crop advisory dataset integration
+* 🧠 Fuzzy matching for speech error handling
+* 📊 Multi-stage crop → phase → stage → topic navigation
+* 💻 Fully offline execution
+* ❌ No paid APIs
+* ❌ No cloud dependency
 
 ---
 
-## 🧠 Tech Stack
-- Python
-- Pandas
-- Whisper (STT)
-- pyttsx3 (TTS)
-- rapidfuzz (fuzzy matching)
+# 🧠 Tech Stack
+
+* Python
+* OpenAI Whisper
+* FFmpeg
+* Pandas
+* NumPy
+* pyttsx3
+* RapidFuzz
+* Torch
 
 ---
 
-## ▶️ How to Run
+# 🌱 Supported Crops
+
+* Rice
+* Maize
+* Ragi
+* Sugarcane
+* Ginger
+* Potato
+* Arecanut
+* Coffee
+* Coconut
+* Pepper
+
+---
+
+# ▶️ How to Run
+
+## 1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
+
+## 2. Run the application
+
+```bash
 python main.py
+```
 
+---
 
-## 🌱 Supported Crops
-- Rice
-- Maize
-- Ragi
-- Sugarcane
-- Ginger
-- Potato
-- Arecanut
-- Coffee
-- Coconut
-- Pepper
+# ⚙️ System Workflow
 
-## 🚀 Future Improvements
-- Kannada voice support
-- Better intent detection
-- GUI/Web application
-- AI/LLM integration
-- Real-time crop recommendations
-- Multi-language support
+1. User speaks crop-related query
+2. Whisper converts speech → text
+3. Fuzzy matching identifies crop/stage/topic
+4. Dataset response is fetched
+5. Bot speaks response using local TTS
+
+---
+
+# 🚀 Future Improvements
+
+* Kannada Text-to-Speech support
+* Better intent detection
+* GUI/Web application
+* RAG/LLM integration
+* Real-time conversational interaction
+* Advanced crop recommendation engine
+
+---
+
+# 📌 Project Background
+
+This project began as an exploration into building a fully offline, low-cost multilingual agricultural voice assistant without relying on paid APIs or LLM services.
+
+The primary goal was to create a practical speech-based system suitable for resource-constrained rural environments.
+
+Development was paused after completing the foundational architecture and deployment pipeline alongside full-time employment responsibilities.
+
+Even in its current state, the project demonstrates practical voice AI integration, local deployment concepts, and dataset-driven conversational workflows.
