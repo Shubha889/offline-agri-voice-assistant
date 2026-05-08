@@ -93,3 +93,15 @@ The primary goal was to create a practical speech-based system suitable for reso
 Development was paused after completing the foundational architecture and deployment pipeline alongside full-time employment responsibilities.
 
 Even in its current state, the project demonstrates practical voice AI integration, local deployment concepts, and dataset-driven conversational workflows.
+
+---
+
+# 📸 Demo Screenshots
+
+## Coffee Crop Query
+![Coffee Demo](screenshots/demo-coffee.png)
+
+---
+
+## Sugarcane Crop Query
+![Sugarcane Demo](screenshots/demo-sugarcane.png)
